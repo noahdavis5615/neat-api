@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-05-06T12:10:17Z
-Entry: docs: document configuration parameters and environment variables
-Sequence: 26/83
+Last updated: 2026-05-07T17:42:24Z
+Entry: fix: ensure graceful socket teardown on unexpected process exit
+Sequence: 27/83
