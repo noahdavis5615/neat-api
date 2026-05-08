@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-05-07T17:42:24Z
-Entry: fix: ensure graceful socket teardown on unexpected process exit
-Sequence: 27/83
+Last updated: 2026-05-08T10:15:19Z
+Entry: ci: setup automated continuous integration workflow
+Sequence: 28/83
